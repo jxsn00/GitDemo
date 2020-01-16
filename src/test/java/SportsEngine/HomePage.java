@@ -97,11 +97,11 @@ public class HomePage extends base {
 	@AfterTest
 	public void teardown () throws InterruptedException {
 		tic();
-		_log.info("HOM: Driver is Almost closed");
+		_log.info("HOM: Driver is Almost Almost closed");
 		if (!hasQuit(driver)) {
 			driver.quit();
 			driver = null;
-			_log.info("HOM: Driver IS CLOSED");
+			_log.info("HOM: Driver IS CLOSED CLOSED");
 		}
 		//driver.quit();
 		//driver = null;
