@@ -1,0 +1,58 @@
+11:14:27.516 [main] INFO  resources.base - OS: MacOS
+11:14:28.583 [main] INFO  resources.base - select sport forward: BEFORE
+11:14:28.583 [main] INFO  resources.base - Browser: class SportsEngine.HomePage chrome
+11:14:28.583 [main] INFO  resources.base - Browser: chrome chome here1
+11:14:28.583 [main] INFO  resources.base - the path/Users/jasonshiggs/Documents/Shelf/Courses/16. Selenium/Projects/maven_source_folder/myJavaProject003SE/chromedriver
+11:14:34.617 [main] INFO  resources.base - select sport forward: AFTER
+11:14:35.629 [main] INFO  resources.base - HOM: Driver is Almost closed
+11:14:35.763 [main] INFO  resources.base - HOM: Driver IS CLOSED
+11:14:36.115 [main] INFO  resources.base - Browser: class SportsEngine.ValidateText chrome
+11:14:36.116 [main] INFO  resources.base - Browser: chrome chome here1
+11:14:36.116 [main] INFO  resources.base - the path/Users/jasonshiggs/Documents/Shelf/Courses/16. Selenium/Projects/maven_source_folder/myJavaProject003SE/chromedriver
+11:14:42.745 [main] INFO  resources.base - Driver is initialized
+11:14:42.771 [main] INFO  resources.base - Find Sport - Test
+11:14:42.803 [main] INFO  resources.base - Text of Find Sport: Find a sport to get involved with today!
+11:14:42.826 [main] INFO  resources.base - Get out and play - Test
+11:14:42.853 [main] INFO  resources.base - class SportsEngine.listeners onTestFailure: Here first----
+11:14:44.336 [main] INFO  resources.base - VAL: Driver is Almost closed
+11:14:44.468 [main] INFO  resources.base - VAL: Driver IS CLOSED
+11:15:03.676 [main] INFO  resources.base - OS: MacOS
+11:15:04.750 [main] INFO  resources.base - select sport forward: BEFORE
+11:15:04.750 [main] INFO  resources.base - Browser: class SportsEngine.HomePage chromeheadless
+11:15:04.750 [main] INFO  resources.base - Browser: chromeheadless chome here1
+11:15:04.751 [main] INFO  resources.base - the path/Users/jasonshiggs/Documents/Shelf/Courses/16. Selenium/Projects/maven_source_folder/myJavaProject003SE/chromedriver
+11:15:04.755 [main] INFO  resources.base - Browser: chromeheadless chome here2
+11:15:10.211 [main] INFO  resources.base - select sport forward: AFTER
+11:15:11.221 [main] INFO  resources.base - HOM: Driver is Almost closed
+11:15:11.317 [main] INFO  resources.base - HOM: Driver IS CLOSED
+11:15:11.622 [main] INFO  resources.base - Browser: class SportsEngine.ValidateText chromeheadless
+11:15:11.622 [main] INFO  resources.base - Browser: chromeheadless chome here1
+11:15:11.622 [main] INFO  resources.base - the path/Users/jasonshiggs/Documents/Shelf/Courses/16. Selenium/Projects/maven_source_folder/myJavaProject003SE/chromedriver
+11:15:11.622 [main] INFO  resources.base - Browser: chromeheadless chome here2
+11:15:15.754 [main] INFO  resources.base - Driver is initialized
+11:15:15.770 [main] INFO  resources.base - Find Sport - Test
+11:15:15.800 [main] INFO  resources.base - Text of Find Sport: Find a sport to get involved with today!
+11:15:15.820 [main] INFO  resources.base - Get out and play - Test
+11:15:15.848 [main] INFO  resources.base - class SportsEngine.listeners onTestFailure: Here first----
+11:15:17.162 [main] INFO  resources.base - VAL: Driver is Almost closed
+11:15:17.257 [main] INFO  resources.base - VAL: Driver IS CLOSED
+11:23:14.514 [main] INFO  resources.base - OS: MacOS
+11:23:15.587 [main] INFO  resources.base - select sport forward: BEFORE
+11:23:15.587 [main] INFO  resources.base - Browser: class SportsEngine.HomePage chromeheadless
+11:23:15.587 [main] INFO  resources.base - Browser: chromeheadless chome here1
+11:23:15.587 [main] INFO  resources.base - the path/Users/jasonshiggs/.jenkins/myJavaProject003SE/chromedriver
+11:23:15.590 [main] INFO  resources.base - Browser: chromeheadless chome here2
+11:23:25.685 [main] INFO  resources.base - select sport forward: AFTER
+11:23:26.698 [main] INFO  resources.base - HOM: Driver is Almost closed
+11:23:26.792 [main] INFO  resources.base - HOM: Driver IS CLOSED
+11:23:27.089 [main] INFO  resources.base - Browser: class SportsEngine.ValidateText chromeheadless
+11:23:27.089 [main] INFO  resources.base - Browser: chromeheadless chome here1
+11:23:27.089 [main] INFO  resources.base - the path/Users/jasonshiggs/.jenkins/myJavaProject003SE/chromedriver
+11:23:27.089 [main] INFO  resources.base - Browser: chromeheadless chome here2
+11:23:31.747 [main] INFO  resources.base - Driver is initialized
+11:23:31.772 [main] INFO  resources.base - Find Sport - Test
+11:23:31.809 [main] INFO  resources.base - Text of Find Sport: Find a sport to get involved with today!
+11:23:31.840 [main] INFO  resources.base - Get out and play - Test
+11:23:31.869 [main] INFO  resources.base - class SportsEngine.listeners onTestFailure: Here first----
+11:23:33.173 [main] INFO  resources.base - VAL: Driver is Almost closed
+11:23:33.266 [main] INFO  resources.base - VAL: Driver IS CLOSED
