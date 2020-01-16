@@ -45,6 +45,7 @@ public class ValidateText extends base {
 			driver.quit();
 			driver = null;
 			_log.info("VAL: Driver IS CLOSED");
+			_log.info("VAL: Driver IS CLOSED Line II for Cloning Test");
 		}
 		//driver.quit();
 		//driver = null;
